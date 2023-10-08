@@ -10,7 +10,6 @@ Before Building You need the learn the following things.
 2-Basic Cloud
 3-Basic  Cloud Management  Techniques
 
-
 Let's Begin
 
 
@@ -19,6 +18,7 @@ Step 1:
 Write the Website code. Here we are writing it ourself but getting a free template so that we can modify it.
 
 
+https://github.com/UsamaSarwar1199/Usama-Sarwar-Resume/blob/main/Microtech1.png
 
 
 
