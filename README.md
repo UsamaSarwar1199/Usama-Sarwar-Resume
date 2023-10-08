@@ -21,5 +21,8 @@ Write the Website code. Here we are writing it ourself but getting a free templa
 https://github.com/UsamaSarwar1199/Usama-Sarwar-Resume/blob/main/Microtech1.png
 
 
+Step2: Extract the Code and Add the Code on the S3 Bucket 
+
+
 
 
